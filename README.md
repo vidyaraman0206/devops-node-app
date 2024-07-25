@@ -1,2 +1,2 @@
 # devops-node-app
-Welcome to the DevOps Demo everyone
+Welcome to the DevOps Demo
